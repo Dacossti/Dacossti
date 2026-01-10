@@ -9,11 +9,12 @@ Welcome to my AI & Data Science projects portfolio! Here, I showcase hands-on ex
 ### 1️⃣ Machine Learning & Deep Learning Python Projects
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-FC5A5A?style=flat-square)
+![DL](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square)
 
 **Description:**  
 A collection of end-to-end machine learning and deep learning projects, including data preprocessing, model training, evaluation, and visualization.
 
-**Skills Highlighted:** Python, NumPy, Pandas, scikit-learn, TensorFlow/PyTorch, feature engineering, hyperparameter tuning.
+**Skills:** Python, NumPy, Pandas, scikit-learn, TensorFlow/PyTorch, feature engineering, hyperparameter tuning.
 
 **Key Projects:**
 - Classification and regression models on public datasets.
@@ -30,7 +31,7 @@ A collection of end-to-end machine learning and deep learning projects, includin
 **Description:**  
 Statistical analysis of global life expectancy using Extreme Value Theory to explore theoretical limits of human lifespan.
 
-**Skills Highlighted:** Statistical modeling, Python (Pandas, Matplotlib, Seaborn), hypothesis testing, critical thinking.
+**Skills:** Statistical modeling, Python (Pandas, Matplotlib, Seaborn), hypothesis testing, critical thinking.
 
 **Key Insights:**
 - Trends in life expectancy across countries and demographics.
@@ -48,7 +49,7 @@ Statistical analysis of global life expectancy using Extreme Value Theory to exp
 **Description:**  
 Integration of Large Language Models with ROS2 to develop a high-level robotic task planner capable of reasoning and autonomous navigation.
 
-**Skills Highlighted:** Python, ROS2, Nav2, robotics planning, AI reasoning, system integration.
+**Skills:** Python, ROS2, Nav2, robotics planning, AI reasoning, system integration.
 
 **Key Achievements:**
 - Demonstrated autonomous planning capabilities guided by LLM reasoning.
