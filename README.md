@@ -9,7 +9,7 @@ Welcome to my AI & Data Science projects portfolio! Here, I showcase hands-on ex
 ### 1️⃣ Machine Learning & Deep Learning Python Projects
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-FC5A5A?style=flat-square)
-![DL](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square)
+![DL](https://img.shields.io/badge/Deep%20Learning-6f42c1?style=flat-square&logo=keras&logoColor=white)
 
 **Description:**  
 A collection of end-to-end machine learning and deep learning projects, including data preprocessing, model training, evaluation, and visualization.
