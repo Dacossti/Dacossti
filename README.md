@@ -69,6 +69,6 @@ Integration of Large Language Models with ROS2 to develop a high-level robotic t
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/staveicnel/)
-- [Kaggle](https://www.kaggle.com/dacossti)
+- [LinkedIn](https://www.linkedin.com/in/stave-icnel-dany-osias/)
+- [Kaggle](https://www.kaggle.com/staveosias)
 - [GitHub](https://github.com/Dacossti)
