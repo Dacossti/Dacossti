@@ -1,4 +1,4 @@
-# Stave Icnel Dany OSIAS Portfolio
+# Hi there!👋
 
 Welcome to my AI & Data Science projects portfolio! Here, I showcase hands-on experience in **machine learning, deep learning, statistical modeling, and AI applications in robotics**.
 
