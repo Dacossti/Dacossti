@@ -29,13 +29,13 @@ A collection of end-to-end machine learning and deep learning projects, includin
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=flat-square)
 
 **Description:**  
-Statistical analysis of global life expectancy using Extreme Value Theory to explore theoretical limits of human lifespan.
+Statistical analysis of Life Expectancy trends across genders and countries and assessment of the potential existence of a theoretical limit to human lifespan using Extreme Value Theory (GPD).
 
 **Skills:** Statistical modeling, Python (Pandas, Matplotlib, Seaborn), hypothesis testing, critical thinking.
 
 **Key Insights:**
 - Trends in life expectancy across countries and demographics.
-- Application of statistical theory to predict lifespan limits.
+- Application of Extreme Value Theory to estimate human lifespan limit.
 
 [Explore the repository →](https://github.com/Dacossti/Life-Expectancy-and-Age-Limit)
 
