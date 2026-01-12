@@ -63,9 +63,10 @@ Statistical analysis of Life Expectancy trends across genders and countries and 
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-red?logo=openai)](https://platform.openai.com/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-API-orange?logo=huggingface)](https://huggingface.co/)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-API-purple?logo=openai)](https://openrouter.ai/)
-![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square)
 [![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-green)](https://docs.ros.org/en/humble/)
+![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square)
 ![Robotics](https://img.shields.io/badge/Robotics-008080?style=flat-square)
+![Planning](https://img.shields.io/badge/Planning-00CED1?style=flat-square)
 
 **Description:**  
 Integration of Large Language Models with ROS2 to develop a high-level robotic task planner capable of reasoning and autonomous navigation.
