@@ -18,6 +18,8 @@ Here, I showcase hands-on experience in **machine learning, deep learning, stati
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FC5A5A?style=flat-square&logo=appveyor&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6f42c1?style=flat-square&logo=tensorflow&logoColor=white)
 
 
 **Description:**  
