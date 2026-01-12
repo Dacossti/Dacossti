@@ -27,13 +27,19 @@ A collection of end-to-end machine learning and deep learning projects, includin
 ---
 
 ### 2️⃣ Life Expectancy & Age Limit Analysis
+![R](https://img.shields.io/badge/R-%3E%3D%204.1-blue)
+![Shiny](https://img.shields.io/badge/Shiny-Interactive-orange)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Graphics-3F4F75)
+[![HLD](https://img.shields.io/badge/Data-HLD-blueviolet)](https://www.lifetable.de)
+[![HMD](https://img.shields.io/badge/Data-HMD-5A9BD5)](https://www.mortality.org)
+[![IDL](https://img.shields.io/badge/Data-IDL-8A2BE2)](https://www.supercentenarians.org)
 ![Statistics](https://img.shields.io/badge/Statistics-4BC51D?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=flat-square)
 
 **Description:**  
 Statistical analysis of Life Expectancy trends across genders and countries and assessment of the potential existence of a theoretical limit to human lifespan using Extreme Value Theory (GPD).
 
-**Skills:** Statistical modeling, Python (Pandas, Matplotlib, Seaborn), hypothesis testing, critical thinking.
+**Skills:** R, R Shiny, Statistical modeling, Data visualisation, Data analysis, plotly, tidyverse.
 
 **Key Insights:**
 - Trends in life expectancy across countries and demographics.
