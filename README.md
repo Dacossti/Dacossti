@@ -26,7 +26,7 @@ A collection of end-to-end machine learning and deep learning projects, includin
 
 ---
 
-### 2️⃣ Life Expectancy & Age Limit Analysis
+### 2️⃣ Life Expectancy Analysis & Age Limit Estimation
 ![R](https://img.shields.io/badge/R-%3E%3D%204.1-blue)
 ![Shiny](https://img.shields.io/badge/Shiny-Interactive-orange)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Graphics-3F4F75)
