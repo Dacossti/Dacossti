@@ -61,6 +61,7 @@ Statistical analysis of Life Expectancy trends across genders and countries and 
 ### 3️⃣ LLM Task Planner for Robotics
 [![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-red?logo=openai)](https://platform.openai.com/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-API-orange?logo=huggingface)](https://huggingface.co/)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-API-purple?logo=openai)](https://openrouter.ai/)
 [![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-green)](https://docs.ros.org/en/humble/)
