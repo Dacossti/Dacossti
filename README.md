@@ -85,12 +85,46 @@ Integration of Large Language Models with ROS2 to develop a high-level robotic t
 
 ---
 
+## 🧠 Hackathons & Research Events
+
+### 🚀 Simulation-Based Inference (SBI) Hackathon — Grenoble
+📍 **IMAG Building, Université Grenoble Alpes, France**  
+📅 **January 21–23, 2026**  
+🏛️ Organized by **SBI4C Chair, MIAI Institute**
+
+![Bayesian Inference](https://img.shields.io/badge/Bayesian%20Inference-4B0082?style=flat-square)
+![Simulation-Based Inference](https://img.shields.io/badge/Simulation--Based%20Inference-2E8B57?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4BC51D?style=flat-square)
+
+**Description:**  
+Participated in a hands-on hackathon focused on **modern Bayesian inference techniques for complex simulators**, with an emphasis on **likelihood-free inference** and **uncertainty quantification** in scientific models.
+
+**Topics & Techniques:**
+- Bayesian inference and probabilistic modeling  
+- Simulation-Based Inference (SBI)  
+- Neural Posterior Estimation (SNPE)  
+- Identifiability and uncertainty quantification  
+- Inference for dynamical systems (e.g. epidemiological SIR models)
+
+**Hands-on Work:**
+- Implemented SBI pipelines using **PyTorch** and the `sbi` library  
+- Performed parameter inference for deterministic and stochastic simulators  
+- Analyzed posterior distributions and posterior predictive checks  
+- Studied the impact of noise, data limitations, and model identifiability
+
+**Skills:** Bayesian statistics, probabilistic reasoning, simulation-based modeling, PyTorch, scientific computing, data visualization.
+
+---
+
 ## 💡 Portfolio Summary
 
-- Strong foundation in **machine learning, deep learning, and statistical modeling**.  
-- Experience applying AI to **real-world problems** and integrating advanced LLMs with robotics.  
-- Capable of delivering **data-driven insights, AI research, and system-level solutions**.  
-- Continuously improving **documentation, reproducibility, and presentation** for professional portfolios.
+- Strong foundation in **machine learning, deep learning, and statistical modeling**, with growing expertise in **Bayesian inference and probabilistic methods**.  
+- Hands-on experience applying AI and statistics to **real-world and research-driven problems**, including simulation-based inference and uncertainty quantification.  
+- Proven ability to integrate advanced AI techniques (LLMs) with **robotics and autonomous systems**.  
+- Comfortable working across the full pipeline: **modeling, inference, experimentation, and interpretation**.  
+- Committed to clear documentation, reproducibility, and high-quality technical presentation.
+
 
 ---
 
