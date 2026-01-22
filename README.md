@@ -115,6 +115,8 @@ Currently participating in a hands-on hackathon focused on **modern Bayesian inf
 
 **Skills:** Bayesian statistics, probabilistic reasoning, simulation-based modeling, PyTorch, scientific computing, data visualization.
 
+[Explore the repository →](https://github.com/Dacossti/sbi-hackathon-2026)
+
 ---
 
 ## 💡 Portfolio Summary
