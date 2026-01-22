@@ -98,7 +98,7 @@ Integration of Large Language Models with ROS2 to develop a high-level robotic t
 ![Statistics](https://img.shields.io/badge/Statistics-4BC51D?style=flat-square)
 
 **Description:**  
-Participated in a hands-on hackathon focused on **modern Bayesian inference techniques for complex simulators**, with an emphasis on **likelihood-free inference** and **uncertainty quantification** in scientific models.
+Currently participating in a hands-on hackathon focused on **modern Bayesian inference techniques for complex simulators**, with an emphasis on **likelihood-free inference** and **uncertainty quantification** in scientific models.
 
 **Topics & Techniques:**
 - Bayesian inference and probabilistic modeling  
