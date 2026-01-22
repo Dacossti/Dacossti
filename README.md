@@ -65,6 +65,8 @@ Statistical analysis of Life Expectancy trends across genders and countries and 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-API-orange?logo=huggingface)](https://huggingface.co/)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-API-purple?logo=openai)](https://openrouter.ai/)
 [![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-green)](https://docs.ros.org/en/humble/)
+[![WSL](https://img.shields.io/badge/WSL-Windows%20Subsystem%20for%20Linux-0A97F5?style=flat-square&logo=windows&logoColor=white)](https://learn.microsoft.com/windows/wsl/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square)
 ![Robotics](https://img.shields.io/badge/Robotics-008080?style=flat-square)
 ![Planning](https://img.shields.io/badge/Planning-00CED1?style=flat-square)
