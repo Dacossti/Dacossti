@@ -2,7 +2,7 @@
 
 Welcome to my AI & Data Science portfolio! 
 
-Here, I showcase hands-on experience in **machine learning, deep learning, statistical modeling, and AI applications in robotics**.
+Here, I showcase hands-on experience in **machine learning, deep learning, statistical modeling, and AI applications in diverse areas such as robotics**.
 
 ---
 
