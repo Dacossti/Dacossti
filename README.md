@@ -65,6 +65,7 @@ Statistical analysis of Life Expectancy trends across genders and countries and 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-API-orange?logo=huggingface)](https://huggingface.co/)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-API-purple?logo=openai)](https://openrouter.ai/)
 [![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-green)](https://docs.ros.org/en/humble/)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 [![WSL](https://img.shields.io/badge/WSL-Windows%20Subsystem%20for%20Linux-0A97F5?style=flat-square&logo=windows&logoColor=white)](https://learn.microsoft.com/windows/wsl/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square)
@@ -74,7 +75,7 @@ Statistical analysis of Life Expectancy trends across genders and countries and 
 **Description:**  
 Integration of Large Language Models with ROS2 to develop a high-level robotic task planner capable of reasoning and autonomous navigation.
 
-**Skills:** Python, ROS2, Nav2, robotics planning, AI reasoning, system integration.
+**Skills:** Python, ROS2, Nav2, Linux (Ubuntu/WSL), Motion planning, AI reasoning, System integration.
 
 **Key Achievements:**
 - Demonstrated autonomous planning capabilities guided by LLM reasoning.
