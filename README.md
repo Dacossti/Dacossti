@@ -45,6 +45,10 @@ A collection of end-to-end machine learning and deep learning projects, includin
 ![Statistics](https://img.shields.io/badge/Statistics-4BC51D?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7DF1E?style=flat-square)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dacossti/Life-Expectancy-and-Age-Limit/main/demo.gif" width="600">
+</p>
+
 **Description:**  
 Statistical analysis of Life Expectancy trends across genders and countries and assessment of the potential existence of a theoretical limit to human lifespan using Extreme Value Theory (GPD).
 
