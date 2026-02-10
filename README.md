@@ -72,6 +72,11 @@ Statistical analysis of Life Expectancy trends across genders and countries and 
 ![Robotics](https://img.shields.io/badge/Robotics-008080?style=flat-square)
 ![Planning](https://img.shields.io/badge/Planning-00CED1?style=flat-square)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dacossti/LLM-Task-Planner/main/demo/demo.gif" width="600">
+</p>
+
+
 **Description:**  
 Integration of Large Language Models with ROS2 to develop a high-level robotic task planner capable of reasoning and autonomous navigation.
 
