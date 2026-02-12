@@ -74,7 +74,7 @@ Statistical analysis of Life Expectancy trends across genders and countries and 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square)
 ![Robotics](https://img.shields.io/badge/Robotics-008080?style=flat-square)
-![Planning](https://img.shields.io/badge/Planning-00CED1?style=flat-square)
+![AI Planning](https://img.shields.io/badge/Planning-00CED1?style=flat-square)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dacossti/LLM-Task-Planner/main/demo/demo.gif" width="600">
